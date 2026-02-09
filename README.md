@@ -32,5 +32,3 @@ git clone <URL_DO_REPOSITORIO>
 cd <NOME_DO_PROJETO>
 npm install
 npm run dev
-npm install
-npm run dev
